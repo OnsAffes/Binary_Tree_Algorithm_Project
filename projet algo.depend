@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\dell\desktop\nouveau dossier\projet algo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1643630887 source:c:\users\dell\desktop\nouveau dossier\projet algo\arbre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbre.h"
+
+1643631320 c:\users\dell\desktop\nouveau dossier\projet algo\arbre.h
+
+1643631465 source:c:\users\dell\desktop\nouveau dossier\projet algo\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arbre.c"
+
+1643631410 c:\users\dell\desktop\nouveau dossier\projet algo\dico.h
+
+1643629861 source:c:\users\dell\desktop\nouveau dossier\projet algo\projet.c
+	<stdio.h>
+	"dico.h"
+
+1643630887 c:\users\dell\desktop\nouveau dossier\projet algo\arbre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbre.h"
+
+1646070508 source:c:\users\asus\desktop\projet algo\arbre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbre.h"
+
+1643631322 c:\users\asus\desktop\projet algo\arbre.h
+
+1643658134 source:c:\users\asus\desktop\projet algo\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arbre.h"
+
+1646070410 source:c:\users\asus\desktop\projet algo\projet.c
+	<stdio.h>
+	"dico.h"
+
+1643631412 c:\users\asus\desktop\projet algo\dico.h
+
